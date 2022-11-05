@@ -15,4 +15,6 @@
 * PlanetScale
 * Stripe
 
+## Packages 
 
+* Ts-node : converts TypeScript code to JavaScript
