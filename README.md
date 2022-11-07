@@ -7,7 +7,7 @@
 * [Contact Info](#contact-info)
 
 ## General Info
-
+Hello and welcome to my e-commerce application. All the products you see are of my making.
 ## Technologies 
 
 * ReactJS
